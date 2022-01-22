@@ -1,5 +1,5 @@
 {
-    "name": "gifsde/php-zxing",
+    "name": "dsiddharth2/php-zxing",
     "description": "Wrapper for zxing using php",
     "type": "library",
     "license": "MIT",
